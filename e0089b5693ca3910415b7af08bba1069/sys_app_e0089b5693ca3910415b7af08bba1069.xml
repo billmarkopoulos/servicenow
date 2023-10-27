@@ -19,11 +19,11 @@
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
-        <scope>x_empedus_support_app</scope>
+        <scope>x_emped_support</scope>
 <!--         <scope>emped_x1</scope> -->
         <scoped_administration>false</scoped_administration>
         <short_description>Request Enhancements from Empedus</short_description>
-        <source>x_empedus_support_app</source>
+        <source>x_emped_support</source>
         <store_correlation_id/>
         <store_url/>
         <subscription_entitlement/>
