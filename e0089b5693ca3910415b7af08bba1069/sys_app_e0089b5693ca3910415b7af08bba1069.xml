@@ -23,17 +23,17 @@
         <scoped_administration>false</scoped_administration>
         <short_description>Request Enhancements from Empedus</short_description>
         <source>x_emped_support</source>
-        <store_correlation_id>REPOAPP0001065321</store_correlation_id>
-        <store_url/>
+        <store_correlation_id>REPOAPP0001065326</store_correlation_id>
+        <store_url>https://tpp.servicenow.com/sn_appstore_s</store_url>
         <subscription_entitlement/>
         <sys_class_name>sys_app</sys_class_name>
         <sys_code/>
         <sys_created_by>prokopis</sys_created_by>
         <sys_created_on>2023-10-25 09:52:12</sys_created_on>
         <sys_id>e0089b5693ca3910415b7af08bba1069</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-10-27 09:30:35</sys_updated_on>
+        <sys_updated_on>2023-10-27 09:33:20</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
