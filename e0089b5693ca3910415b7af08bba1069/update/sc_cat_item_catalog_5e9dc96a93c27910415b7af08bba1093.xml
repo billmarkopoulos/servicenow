@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
     <sc_cat_item_catalog action="INSERT_OR_UPDATE">
-        <sc_cat_item display_value="Copy of Enhancement Request">9e9d096a93c27910415b7af08bba10e3</sc_cat_item>
-        <sc_catalog display_value="Empedus Catalogue">22eedf9e93ca3910415b7af08bba1007</sc_catalog>
+        <sc_cat_item display_value="Enhancement Request">9e9d096a93c27910415b7af08bba10e3</sc_cat_item>
+        <sc_catalog display_value="Empedus Catalog">22eedf9e93ca3910415b7af08bba1007</sc_catalog>
         <sys_class_name>sc_cat_item_catalog</sys_class_name>
         <sys_created_by>prokopis</sys_created_by>
         <sys_created_on>2023-10-25 18:25:57</sys_created_on>

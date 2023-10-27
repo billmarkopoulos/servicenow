@@ -58,7 +58,7 @@
         <update_guid_history>70490526308a311020a35c0aa4edbb34:1186807108</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Support.Enhancement Request">230d8d6a478a3110fba076a4416d43e8</sys_audit_delete>
+        <sys_audit_delete display_value="">230d8d6a478a3110fba076a4416d43e8</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-10-25 18:23:34</sys_created_on>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
     <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
         <default>true</default>
-        <sc_catalog display_value="Empedus Catalogue">22eedf9e93ca3910415b7af08bba1007</sc_catalog>
+        <sc_catalog display_value="Empedus Catalog">22eedf9e93ca3910415b7af08bba1007</sc_catalog>
         <sys_class_name>sc_catalog_view_mtom</sys_class_name>
         <sys_created_by>prokopis</sys_created_by>
         <sys_created_on>2023-10-25 10:22:48</sys_created_on>
